@@ -1,0 +1,21 @@
+.main_article {
+    display: flex;
+}
+
+.fish_card {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.month {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.fish_locations {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+}
